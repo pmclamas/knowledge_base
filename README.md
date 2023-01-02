@@ -1,4 +1,3 @@
-#EthicalHacking #malware #DigitalForensics #pentesting #BugBounty #Linux #OSINT #Intelligence #DataPrivacy #InformationSecurity #cybersecurity #ThreatIntelligence #SocialEngineering #DigitalTransformation #RiskManagement #Governance #Compliance #InformationSystems #SecurityEngineering #OpenSource #DFIR #CyberTerrorism #CyberWarfare #Disinformation #CloudStorage #CloudComputing 
 
 ## Learning_base
 Upgrading my knowledge! Building learning habits that lead to great knowledge.
@@ -12,3 +11,4 @@ Upgrading my knowledge! Building learning habits that lead to great knowledge.
 
 #### Never stop learning!!
 
+#EthicalHacking #malware #DigitalForensics #pentesting #BugBounty #Linux #OSINT #Intelligence #DataPrivacy #InformationSecurity #cybersecurity #ThreatIntelligence #SocialEngineering #DigitalTransformation #RiskManagement #Governance #Compliance #InformationSystems #SecurityEngineering #OpenSource #DFIR #CyberTerrorism #CyberWarfare #Disinformation #CloudStorage #CloudComputing 

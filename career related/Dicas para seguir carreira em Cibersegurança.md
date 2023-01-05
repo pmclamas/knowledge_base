@@ -1,3 +1,6 @@
+A dedicated passion to learn and understand how technology works goes a long way. Many people think cybersecurity is all about hacking into or breaking things, but cybersecurity is actually all about learning how technology and people work.
+In addition, there are a growing number of fields in cybersecurity that do not focus on solving technical problems, but instead more human focused problems. These require softer skills, such as privacy, security awareness, governance, security communications, or cyber laws and ethics.
+
 - Todas as áreas têm igual valor.
   Não existe um tema mais relevante que outro em Segurança da Informação e Cibersegurança. Conheça cada uma das áreas existentes e trace um caminho com que se identifique.
 - Toda a experiência conta.

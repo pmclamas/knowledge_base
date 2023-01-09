@@ -150,6 +150,24 @@ Technical skills are important within the application, software, and product sec
 - understanding how software and products are developed, down to a code or component level, is extremely beneficial for these roles.
 
 **Governance and compliance**
+Organisations are increasingly regulated by industry and legal requirements. Additionally, most organisations have internal policies and standards that describe required security controls, processes, and technologies.
+It is the job of governance and compliance personnel to ensure that all the areas of the organisation are compliant with external regulations and internal policies.
+
+Governance and compliance work more with the administrative side of the organisation. Interaction with legal and audit functions is common within the governance and compliance discipline. They're called upon to assess the organisation's current level of compliance, perform gap analysis, and work with internal and external auditors to demonstrate compliance in regular reviews.
+
+**Leaders and Executives (e.g. CISO)**
+Security leaders and executives typically represent the culmination of experience within one or often multiple disciplines of cybersecurity. As the roles become more senior, these leaders need to have at least a conceptual understanding of the various functions for which they will be responsible. 
+The CISO role is often the pinnacle of a cybersecurity career. This role is responsible for all things related to cybersecurity across a large division or even the entire breadth of an organisation. The CISO needs to be able to apply knowledge of cybersecurity domains as well as business management to situations that they will encounter on a daily basis. The CISO also needs to understand how other business executives operate and how cybersecurity fits into each of their perspectives. 
+These roles are not for everyone. Individuals who have a desire to understand and work in business management as much as security management will fit best in these higher-level leadership roles. They require a unique mix of technical capabilities and business administration knowledge.
+While demanding, these roles can also be rewarding. Having ultimate ownership and accountability for the security strategy of an organisation is exciting. It is one way that a cybersecurity professional can build a legacy.
+
+##### Characteristics of a security professional
+- **Inventors and creators**
+- **Obsessively inquisitive:** when presented with a problem, security professionals need to be motivated to dig in and do their own investigation. Whether it's responding to a potential security alert, assessing an application for a particular vulnerability, or trying to determine whether a company is fully compliant with the requirements of recently passed regulations, security professionals need to be deeply curious.
+  The answers we seek are not always easy to find, so our curiosity needs to border on obsessive. Being willing to dive down the "rabbit hole" and investigate a situation until you find an answer is a common quality among the highly respected security professionals.
+  This persistence in working through frustrations along the way ultimately yields powerful results. 
+  This level of curiosity is found in individuals who are ready, willing, and able to learn new things. As technology grows at increasingly high rates, continuous learning is a must.
+- **Compulsive learning:** 
 
 
 

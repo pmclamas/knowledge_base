@@ -30,21 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ae3226c0b4316426",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Video tutorials/Darkweb, anonymity, privacy and security.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Video tutorials/Projects in Linux (video tutorial).md",
+                "file": "Books (reading notes)/Cybersecurity career guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Video tutorials/Projects in Linux (video tutorial).md",
+                "file": "Books (reading notes)/Cybersecurity career guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Video tutorials/Projects in Linux (video tutorial).md"
+                "file": "Books (reading notes)/Cybersecurity career guide.md"
               }
             }
           },
@@ -185,10 +172,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "9e47085496f58fd3",
+  "active": "6ecea6db8de00301",
   "lastOpenFiles": [
-    "Video tutorials/Darkweb, anonymity, privacy and security.md",
     "Video tutorials/Projects in Linux (video tutorial).md",
+    "Video tutorials/Darkweb, anonymity, privacy and security.md",
     "Books (reading notes)/Cybersecurity career guide.md",
     "Cybersecurity & Infosec/other notes/What is cybersecurity?.md",
     "career related/Quick notes on starting.md",

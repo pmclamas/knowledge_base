@@ -168,6 +168,28 @@ While demanding, these roles can also be rewarding. Having ultimate ownership an
   This persistence in working through frustrations along the way ultimately yields powerful results. 
   This level of curiosity is found in individuals who are ready, willing, and able to learn new things. As technology grows at increasingly high rates, continuous learning is a must.
 - **Compulsive learning:** 
+Related to being obsessively inquisitive, it is also imperative that aspiring security professionals demonstrate the desire and ability to learn all the time. 
+The strongest security personnel are those who feel a level of compulsion to fully understand how something works rather than simply accept that it works in a certain way.
 
+Understanding the inner functioning of technology enables the ability to innovate and create new solutions. This need to understand drives a person to identify portions of technology that they want to improve and to obtain the knowledge for improving it. 
+
+- **Considerations of anonymity:**
+  Many choose to remain largely anonymous and operate behind handles and secrecy. Working in security - which can include defending systems from malicious individuals or doing battle with a potentially criminal element - can make a person a target.
+  This personal decision must be made early in your career. If you choose to protect your anonymity, that work must begin right away. While you can begin your career embracing your privacy and anonymity, and then decide later to be more present and public, you cannot go other way. 
+  However, there are reasons you may choose to be openly public in your identity right away. First, maintaining that anonymity is another level of effort and stress that you will need to continually endure. How you interact with others, what you say, what you share, which websites you use - all of this and more must be considered at every moment of every day. Your level of situational awareness always needs to be high.
+  Anonymity can limit your ability to network, and networking can often be crucial in finding new jobs. You might want to build a personal brand as it opens many opportunities for you professionally.
+
+##### Summary
+- cybersecurity includes several high-level disciplines, and each comprises many roles and job functions.
+- highly successful professionals can be found across all of the roles and job functions within cybersecurity.
+- cybersecurity career paths encompass more than just those focused on highly technical responsibilities.
+- the most successful cybersecurity professionals are inventors and creators who are obsessively inquisitive, compulsive learners, and believe in the ideology of cybersecurity culture.
+
+### Skills in a hot market
+**Architect roles -** security architect roles are  highly specialised breed of security professionals. This role requires a vast array of cybersecurity knowledge that spans multiple technologies, security disciplines, and organisational paradigms. As a result, these roles can have a base requirement of 10 years or more of previous experience. While they are some of the most highly compensated roles prior to management, they are also the scarcest in terms of open positions.
+Architects are responsible for high-level security design. They need to be able to see across multiple technologies and build solutions that incorporate many defensive techniques. Architects spend a lot of time, therefore, in design work and analysing data collected from security tools. 
+
+#### Common skills for security roles
+##### Common technical skills
 
 

@@ -192,4 +192,8 @@ Architects are responsible for high-level security design. They need to be able 
 #### Common skills for security roles
 ##### Common technical skills
 
+**Software development/Programming -** a strong working knowledge of scripting languages such as PowerShell, Bash, Perl, or Python is extremely helpful. 
+In operations roles, security professionals typically use scripts to automate tasks, search through logs, or integrate multiple monitoring systems. Writing scripts can be useful for searching through large amounts of data, launching coordinated responses, and analysing breach evidence. Scripting even comes in handy in red-team roles such as penetration testing, where it can help conduct repetitive tasks and scan large data sets quickly.
+
+Helping identify and remediate vulnerabilities in software is a common task for security teams. Understanding how the code behind the software works can help when simulating attacks against software to discover its flaws. It is also helpful in conducting static code analysis (source code review) and software composition analysis tasks. 
 

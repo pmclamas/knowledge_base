@@ -70,3 +70,4 @@ Tails is live and amnesic. Never uses computer storage. Only relies on RAM.
 - Disadvantages:
 	- more unique = easier to detect
 	- incorrect settings or vulnerable software can compromise your anonymity. 
+

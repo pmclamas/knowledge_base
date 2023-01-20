@@ -5,5 +5,7 @@ Red Hat Enterprise Linux is the most popular commercial distro for enterprises.
 ##### Important Commands
 ![[CyberAces_Module1-Linux_3_CoreCommands.pdf]]
 
+[Linux Core Commands youtube video](https://www.youtube.com/watch?v=RQ-TQRlBNfY)
+
 
 

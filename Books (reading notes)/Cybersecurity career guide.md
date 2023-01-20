@@ -189,11 +189,107 @@ Understanding the inner functioning of technology enables the ability to innovat
 **Architect roles -** security architect roles are  highly specialised breed of security professionals. This role requires a vast array of cybersecurity knowledge that spans multiple technologies, security disciplines, and organisational paradigms. As a result, these roles can have a base requirement of 10 years or more of previous experience. While they are some of the most highly compensated roles prior to management, they are also the scarcest in terms of open positions.
 Architects are responsible for high-level security design. They need to be able to see across multiple technologies and build solutions that incorporate many defensive techniques. Architects spend a lot of time, therefore, in design work and analysing data collected from security tools. 
 
-#### Common skills for security roles
-##### Common technical skills
+### Common skills for security roles
+#### Common technical skills
 
-**Software development/Programming -** a strong working knowledge of scripting languages such as PowerShell, Bash, Perl, or Python is extremely helpful. 
+##### Software development/Programming 
+A strong working knowledge of scripting languages such as PowerShell, Bash, Perl, or Python is extremely helpful. 
 In operations roles, security professionals typically use scripts to automate tasks, search through logs, or integrate multiple monitoring systems. Writing scripts can be useful for searching through large amounts of data, launching coordinated responses, and analysing breach evidence. Scripting even comes in handy in red-team roles such as penetration testing, where it can help conduct repetitive tasks and scan large data sets quickly.
 
 Helping identify and remediate vulnerabilities in software is a common task for security teams. Understanding how the code behind the software works can help when simulating attacks against software to discover its flaws. It is also helpful in conducting static code analysis (source code review) and software composition analysis tasks. 
 
+Experience in a software development role is also helpful for security professionals, especially those engaged in application security. Understanding how the SDLC and software delivery pipeline function can help security professionals better address security proactively.
+
+##### Network communications and administration
+Many SOC analysts and DFIR employees start their careers as network administrators. The ability to understanding things like TCP/IP concepts, packet-level communications, routing, and Domain Name System (DNS) pay off big when you are the one responsible for monitoring your network for attacks. 
+Administration of firewalls and other network-based security devices definitely requires a solid understanding of network communications.
+If you're working in DFIR and have research SIEM data or do forensic network analysis of a recent branch, that ability to understand and interpret network communications is crucial.
+
+If you understand the OSI model, you are familiar with its definition of seven layers of network communications. Depending on the role you seek, you may need varying degrees of knowledge at any of those levels of the model. Developing knowledge in this area can open a lot of doors into the security world.
+
+##### Cloud and cloud-native technology
+Amazon Web Services (AWS), Microsoft Azure, Google Cloud, etc. 
+These environments introduce unique demands for security and administration.
+New cloud-native technologies such as containers, serverless environments, and orchestration are growing in popularity as DevOps culture becomes more prominent.
+Security professionals who understand the unique security threats that these technologies pose, as well as the tools used to administer these environments and technologies, are in high demand.
+Becoming familiar with cloud environments and technologies can prepare you for numerous roles.
+
+##### Cryptography
+Given how inherent cryptography is to security controls and how highly valued exploits against cryptography can be, understanding at least the basic concepts is crucial across pretty much every security role. Deep understanding of algorithms and how they are mathematically applied is likely excessive for most roles.
+Being able to understand the differences between various forms of ciphers, and their characteristics that make them suitable for a specific application and not appropriate for others, is crucial.
+
+##### Social Engineering
+Is the use of deception to manipulate people into committing an action or behaviour that helps expose a secured resource. 
+Interactive tasks like phishing (social engineering via email) or vishing (social engineering via voice communications) campaigns might fall to someone in more of an operations role.
+
+##### Industrial Control Systems (ICSs)
+Are IT systems, devices, and networks that are used to control and monitor physical equipment and industrial processes. The equipment and processes can include manufacturing production lines, warehouse management systems, utilities management and distribution systems.
+These systems use communications protocols and devices that are specific to ICSs; for instance, Supervisory Control and Data Acquisition (SCADA) refers to devices and communications that are used for monitoring industrial systems. Various other devices such as programmable logic controllers (PLCs), master terminal units (MTUs), and remote terminal units (RTUs), provide control of the various systems.
+A particular challenge with ICS security is that many of these systems were not originally designed with the intent of connecting them to large corporate networks. Instead, their designs often assume they'll be isolated and protected from other network traffic. Adding to this challenge, many of the systems use lightweight versions of operating systems or even purpose-built firmware that isn't able to support many of the typical security features and controls that we're used to in typical IT systems.
+Awareness of the need to secure these types of systems is increasing.
+Developing knowledge of the unique characteristics of these systems, the specialised security considerations they require, and common practices for securing them, can open doors in terms of security jobs.
+
+##### Radio communications
+When people think of wireless communications in terms of IT, the most commonly recognised are likely Wi-Fi and Bluetooth. However, a whole variety of other specialised radio communications are leveraged in everything from smart devices to wide area networks. Even where these specialised communications pathways support a more traditional TCP/IP layer, the underlying implementations still have their own unique technology that can be exploited.
+Then, being able to sufficiently protect these communications is fully dependent upon how well those risks and threats are understood. 
+Defensive security professionals must be able to consider questions like:
+- how and where within the stack does encryption occur, if at all?
+- can traffic be interrupted or injected, and what capabilities are designed into the communications stack to account for these issues?
+- is the underlying firmware of communications devices properly secure?
+
+### Soft Skills
+
+##### Research Skills
+**Curiosity and passion**. The ability to look at a situation you want to understand and be able to deconstruct it and find answers is crucial to implementing effective security defences. 
+Some of the best security professionals are those who don't just accept a situation for what it is but instead have a **desire to understand the why**. This **curiosity fuels our desire to research the situation and develop a deeper understanding of it**. Once we understand the situation, a person's creativity and innovative spirit can drive new ideas.
+
+**It is a crucial skill to be able to start with an objective you know little about and begin looking for answers. You may not even know where to begin looking. Effective research is based in part on the ability to discover where to look and what questions to ask. Being able to answer those questions sufficiently is the end result.** 
+
+It's important to have the drive to fully understand the things we perceive so that we can effectively respond. Once you understand the why of the current situation, you can move on to figuring out how to start solving those problems.
+
+##### Problem-solving
+Problem-solving and research may seem like the same thing, but they are really only related concepts in that one leads to the next.
+Plenty of people excel at research but cannot figure out what to do with the facts once they have them. 
+
+Problem-solving involves taking the facts that are known about the current state, identifying the desired state (objective), and then setting forth a plan for changing the current state to the desired state.
+
+To solve a problem, I need to think about possible solutions and determine which will get me from the current state to the desired state. 
+Not all problems are straightforward, especially in cybersecurity. Creativity is often needed when it comes to identifying the solutions that will bring about the desired state. The ability to analyse and come up with solutions when they may not be so obvious differentiates good problem solvers from the average person. 
+
+##### Collaboration
+Requires us to identify the people we need to work with to get things done and to work with them effectively and cooperatively.
+In cybersecurity, we need to be able to work with other areas of the organisation to get things done. If a person does not work well with others (is abrasive, unwilling to share information, or unwilling to accept ideas from others), that person generally will not perform well in security-related roles.
+
+Collaboration is all about a person's ability to cooperate and compromise with those who may have different goals and responsibilities. It is the capability to influence others while also being able to accept and apply their ideas to the current situation.
+
+##### Empathy/Emotional Intelligence
+Empathy is the ability to understand and identify with someone else's emotions, feelings, and concerns. To influence others, a person needs to couple empathy with emotional intelligence.
+Emotional Intelligence is a person's ability to analyse their own emotions and express them effectively.
+When collaborating with others, these skills ensure that a person is able to win support and cooperation from others by understanding the emotions of those they wish to work with, understanding their own emotions, and communicating in a way that bridges the  gap between the two.
+Many security professionals fail to progress in their careers because their communications skills are lacking. Practicing empathy and emotional intelligence addresses that issue.
+
+##### Multitasking and organisational skills
+The ability to take in a wide variety of inputs, organise and prioritise them, and then work through them deliberately and with purpose is multitasking.
+Unfortunately, not everyone is skilled in this regard. Some people are used to working on one task at a time, taking it from start to finish before working on the next task. For just about any cybersecurity job, this mode of operation simply does not work.
+
+Multitasking and organisational skills require a person to be attentive to details and to be methodical in planning tasks. So, if you find that you struggle in those situations, it would be good to look for resources on time management and organisational skills to develop your own personal method for managing your tasks.
+
+##### Writing skills
+Whether you are a penetration tester, incident responder, or security architect, you need to be able to communicate your ideas, your proposals, and your findings in written form.
+
+A penetration tester who cannot communicate the details of a vulnerability they discovered in a way that their customer can understand is not effective at all. An incident responder who cannot provide understandable details of a security incident to allow management to make an educate decision about a future strategy has failed in their role. 
+
+When you are searching for a job, it is important to remember that your writing skills are one of the first things that will be assessed. Your resume and any cover letter you choose to include are early indicators of how well you communicate in written form.
+
+##### Speaking and presentation skills
+You can be called upon to present the results of research you have performed, details of a proposal for new security technologies, or other security concepts to a groups of people.
+
+##### Summary
+- while the industry is reporting a shortage of people to fill open cybersecurity roles, both aspiring security professionals and experienced individuals can struggle to find a job.
+- varying levels of positions exist within cybersecurity, each introducing new challenges and responsibilities.
+- aspiring security professionals should consider developing several technical skills. While no single pattern or set of skills is needed, many of the technical skills have wide-ranging applications across multiple security disciplines.
+- soft skills are commonly overlooked by people seeking their first role in cybersecurity. Look at own skill set and work to improve the soft skills that apply across all cybersecurity roles.
+
+### Preparing for and mastering the job search
+
+No career journey can begin without self-examination and planning. 

@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b18bc2de6a77fbda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Address Resolution Protocol (ARP).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books (reading notes)/Cybersecurity career guide.md",
+                "file": "Address Resolution Protocol (ARP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books (reading notes)/Cybersecurity career guide.md",
+                "file": "Address Resolution Protocol (ARP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books (reading notes)/Cybersecurity career guide.md"
+                "file": "Address Resolution Protocol (ARP).md"
               }
             }
           },
@@ -173,17 +185,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "02b30ffe5ee32e9b",
+  "active": "b18bc2de6a77fbda",
   "lastOpenFiles": [
+    "Network Address Translation (NAT).md",
+    "Books (reading notes)/Cybersecurity career guide.md",
+    "Address Resolution Protocol (ARP).md",
+    "career related/SOC job specs.png",
     "SANS Cyber Aces.md",
     "Video tutorials/Darkweb, anonymity, privacy and security.md",
-    "Books (reading notes)/Cybersecurity career guide.md",
     "Linux skills for cybersecurity professionals.md",
     "Video tutorials/Projects in Linux (video tutorial).md",
     "ChatGPT.md",
-    "Cybersecurity & Infosec/other notes/What is cybersecurity?.md",
-    "career related/Quick notes on starting.md",
-    "Cybersecurity & Infosec/other notes/Encrypted https.md",
-    "career related/How to kickstart your career in cybersecurity.md"
+    "Cybersecurity & Infosec/other notes/What is cybersecurity?.md"
   ]
 }

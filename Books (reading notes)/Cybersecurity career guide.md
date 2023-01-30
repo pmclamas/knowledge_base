@@ -293,3 +293,65 @@ You can be called upon to present the results of research you have performed, de
 ### Preparing for and mastering the job search
 
 No career journey can begin without self-examination and planning. 
+
+The best way to prepare yourself for your first cybersecurity job is to realise that there is no best way. There is no one way. 
+
+Deciding the correct path to take in developing your skills and positioning yourself to win that first job requires quite a bit of introspection.
+Having something you are aiming for is critically important to building a career. You need to self-analyse and really figure out what motivates you, what makes you want to dig in, and what ultimately will spark your passion. You are going to need that motivation and passion to pursue this career. 
+
+You also need to analyse your skills. You need to have a process for objectively looking at where you stand today and assessing the skills you have. 
+
+### The entry-level challenge
+Launching a new career is an extremely daunting undertaking. One of the most challenging aspects of the process is just finding that first role. You need something that will allow you to grow your skills while still contributing positively to the team. Finding a role that does not expect you to already have all the skills of a seasoned security veteran is tough. 
+
+Regardless of your background, you have a place in the community. 
+
+Diverse sets of experience are crucial to security, as discussed previously, so you just need to learn how to identify and justify the connection between your previous job experience and the security role that you seek. 
+
+##### Know yourself
+- why do you want to start a career in cybersecurity?
+- what interests you?
+- why security and not a software development or project management job?
+- what is it about security that gets you excited?
+It's important to spend dedicated time looking at what is important to you, what you want to accomplish, what assets you have currently to help make that happen, and what areas you need to focus on developing to improve your chances of success. 
+
+The first step in this process is just getting to know who you are as a person and what makes you tick.
+
+##### Identifying the authentic you
+When you are trying to stand out in your job application, it is exceptionally important that you embrace the things that make you unique.
+
+Job seekers need to be more focused on laying the foundations of a personal brand. How do you want to be seen in the industry, what do you want to be known for, or what is the story of you that you want the world to know? Everything you do in your job search can then center around that personal brand. As you start putting resumes out into the hands of recruiters, you want to make sure that they are seeing what makes you awesome and special.
+
+"What's your weird?" - find that one story about you that makes you stand out. It should be something fun, personal, and genuine. 
+Take a moment and think about you. What makes you stand out? What is the crazy, odd, or just simply different aspect of who you are that few people can claim? 
+After you figure it out, your work begins. Find that unique element and embrace it. Use it to build a story about who you are that will make employers remember your name.
+Be authentic to yourself and use that to propel yourself to the forefront of their minds. 
+To do that, you need to make that story a part of every aspect of your professional persona. Present it consistently in every form of autobiographical information you share. Whether it is your description of yourself on LinkedIn or Twitter or in your cover letter that you send along with your resume, or even possibly in the objective statement you include in your resume itself, make sure you consistently share that story of who you are.
+That repetitive presentation of your distinctive persona will ensure that recruiters and hiring managers remember not just your name but who you are as a person. Making those personal connections will be key as you move into the job search process.
+
+**Exercise: find your authentic uniqueness**
+1. Imagine you are giving a newspaper interview in which you need to provide a brief but comprehensive autobiography.
+2. List 10 to 15 things you would most want people to know about you.
+3. Write one paragraph, only one, no more than 200 words, describing yourself based on that list. You may not be able to fit all the points from step 2, so prioritise.
+4. Read your paragraph. List three things that you wish you had more room to describe or explain.
+5. Pick the one item that stands out the most. Is it unique and does it fit you?
+The point of this exercise is to find that thing that is inherent to the way you view yourself and is therefore authentic. It is also the thing with a backstory that cannot be fully described in just a few words. As a result, it makes any outside reader immediately thirsty for additional information. When it comes to your social media presence, your professional introductions, and your resume, this is a priceless tool in making yourself memorable and interesting. This is what will make you stand out.
+
+##### Finding your passion
+Passion drives human beings to accomplish great things; it motivates us to work toward a goal despite the hardships we encounter along the way. 
+
+If someone were to ask you right now what you are passionate about in security, could you immediately give them an answer?
+For a lot of people, security is an exciting topic, and the idea of having a job that centers on that discipline is almost too good to be true. But, unfortunately, people who feel this way do not often explore any deeper. 
+If you are going to try to prepare for a career in this widely diverse field, it is important to know where you want to focus your efforts. No human being can possibly learn all the skills and knowledge necessary to cover the entire breadth of security. As such, you will need to direct your efforts. Understanding what it is that motivates you and makes you want to work in this field will allow you to develop that focus.
+
+Take a little time to really dig into your personal feelings around topics related to security. What gets you most excited? Is it the idea of having a puzzle to solve? Is it the exposure to new technologies? Is it the constant learning and evolving?
+![[Screenshot 2023-01-27 at 18.11.54.png]]
+{graphic: Aspiring security professionals interests in cybersecurity}
+
+![[Screenshot 2023-01-27 at 18.15.07.png]]
+{graphic: experienced security professionals interests in cybersecurity}
+
+You can see a lot of similarities in the responses. It's a good demonstration of how the passions that bring a person into the field continue to motivate them through their career.
+
+##### Developing your personal objective
+

@@ -354,4 +354,55 @@ Take a little time to really dig into your personal feelings around topics relat
 You can see a lot of similarities in the responses. It's a good demonstration of how the passions that bring a person into the field continue to motivate them through their career.
 
 ##### Developing your personal objective
+Know who you are, how you want the world to see you, and what passions are driving your entry into the security community. You have documented the core of your personal brand and the reasons that you are seeking to build a cybersecurity career.
+It is time to bring that together into a personal objective statement.
+
+**Personal objective statement**
+This statement serves as a constant guide to assist you through your journey. It is something you will be able to refer to not only during your job search but also as your career progresses. You will likely encounter tough decisions in your career or moments where you question whether you are on the right career path. Having  written personal objective will help remind you of how you got to where you are and help you make a decision that is consistent with your personal best interests.
+Your objective statement is personal. You may choose to keep it private or use it as part of your personal brand. At minimum, it is important to derive your personal brand from your objective statement. Maintaining that integrity of your personal brand with who you are at your core is a key to being a credible and inspirational force in your career.
+
+Include your objective statement, or a derivate thereof, at the top of your resume, It's that attention-grabbing sentence or two that will announce your intentions and make you stand out.
+
+It should be personal to you - something that describes you, not as just another molecule in the grey mass of security professionals looking for a job, but rather what makes you, you. 
+
+To build an incredibly powerful statement, leverage your authentic uniqueness and your list of passions to tell a story about you and what you want to do in your career. 
+
+**Exercise: write your objective statement**
+Writing an objective statement simply combines your passions and "your weird" into a single statement of one or two sentences at most. It is an overall summary of who you are and why you want a career in cybersecurity. 
+The format of your objective statement will be something like "I am (personal brand) with a passion for (top one or two passions)."
+
+*("I am a life-long hacker who since buying my first computer at age 12 has always had a passion for deconstructing technology to understand it and improve upon it")*
+
+Quick process to turn your story into an objective statement:
+1. what is the main idea in your personal brand? Make it as brief as possible.
+2. choose the one or two top passions from your list that you want to highlight or that best fit your story.
+3. lay out the statement as shown in the previous text.
+4. edit the statement as needed to fit your personality.
+5. ask someone you trust to read it and provide feedback. Does it make them curious to know more about you?
+6. revise if you feel necessary (but remember, this is your personal statement, not the person's who provided feedback)
+
+Your objective statement should inspire you and remind you of what is most important for you in terms of your career.
+
+#### Own yourself
+Let's look at a process for analysing your knowledge, skills, and experience, and building an inventory of those capabilities.
+
+As an entry-level job seeker, it will be paramount for you to be able to express to a hiring manager or recruiter just how your prior job/role has equipped you with skills that make you a more attractive candidate for the role you seek. 
+All of this will culminate in a ranked capabilities inventory that you will be able to use to better plan your personal development and match yourself with jobs that you are qualified for.
+**Technical capabilities**
+It is the area that most hiring managers are focused on, so your attention on developing your technical skill set is not misplaced.
+
+**Exercise: list technical capabilities**
+This list will ultimately become a living document, which you'll want to update on a periodic basis.
+1. Create a document with four headings: Capability, Knowledge, Skill, Experience.
+2. Think about your current or last job first and list all tasks you had to complete in that job under the Capabilities column. Think of as many as you can.
+3. Do the same for any and all previous jobs you had.
+4. For all the capabilities listed, put an X in each of the three columns next to it. You did this job; therefore, you have knowledge, skills, and experience in each.
+5. Next think about any formal studies you have done - either in training or schooling. List any formal studies you've taken part in that are not already listed in the Capabilities column. 
+6. Now consider which of these you have developed skills in, and which are only knowledge, and check the appropriate columns for each.
+7. finally, think of any other non-school work or self-education that you have done. List any not already listed and again check the appropriate columns.
+![[Screenshot 2023-02-01 at 14.04.37.png]]
+This will now serve as the foundation for the next step, which is identifying core skills, as well as later helping develop your capabilities inventory.
+
+**Core Skills**
+
 

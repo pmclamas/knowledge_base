@@ -32,19 +32,19 @@
             }
           },
           {
-            "id": "b18bc2de6a77fbda",
+            "id": "18b8d87c51661c0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Address Resolution Protocol (ARP).md",
+                "file": "Packet traveling.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Address Resolution Protocol (ARP).md",
+                "file": "Books (reading notes)/Cybersecurity career guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Address Resolution Protocol (ARP).md",
+                "file": "Books (reading notes)/Cybersecurity career guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Address Resolution Protocol (ARP).md"
+                "file": "Books (reading notes)/Cybersecurity career guide.md"
               }
             }
           },
@@ -185,17 +185,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "b18bc2de6a77fbda",
+  "active": "02b30ffe5ee32e9b",
   "lastOpenFiles": [
-    "Network Address Translation (NAT).md",
+    "Packet traveling.md",
     "Books (reading notes)/Cybersecurity career guide.md",
     "Address Resolution Protocol (ARP).md",
+    "Network Address Translation (NAT).md",
     "career related/SOC job specs.png",
     "SANS Cyber Aces.md",
     "Video tutorials/Darkweb, anonymity, privacy and security.md",
     "Linux skills for cybersecurity professionals.md",
     "Video tutorials/Projects in Linux (video tutorial).md",
-    "ChatGPT.md",
-    "Cybersecurity & Infosec/other notes/What is cybersecurity?.md"
+    "ChatGPT.md"
   ]
 }

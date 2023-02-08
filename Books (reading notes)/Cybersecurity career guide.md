@@ -404,5 +404,34 @@ This list will ultimately become a living document, which you'll want to update 
 This will now serve as the foundation for the next step, which is identifying core skills, as well as later helping develop your capabilities inventory.
 
 **Core Skills**
+The next step is to connect technical capabilities with concepts that apply to cybersecurity.
+Core Skills are the transferrable skills that each technical skill can be divided into. By understanding the core skills in each of the capabilities identified, we will build a justification for how your past non-security experience has better equipped you for that security role you are pursuing.
+
+- processing multiple inputs
+- translating inputs into response tasks
+- prioritising and organising responses to maximise efficiency
+- planning and executing critical maintenance activities
+- maintaining focus on efficient delivery for the consumer
+
+When you're approaching an entry-level job and don't have a lot of past experience in the field to draw on, being able to confidently justify these connections will prove valuable. 
+
+1. From your technical capabilities list, take all the non-security-focused capabilities that you marked in the Experience column and put them in  a new list.
+2. for each capability, reword your description, replacing any terminology that would identify the job or industry to which it applies. Remember, the goal is to generalise it enough that it can be applied universally.
+3. after you have completed rewording the descriptions, break them into singular skills.
+4. look through the singular skills and eliminate any duplicates
+5. test out each skill to see if you can apply it to two or three careers from multiple other fields. If you cannot, try rewording the bullet further to truly capture a job-neutral description of the skill.
+
+Confidence drives credibility. If you can deliver the message with conviction and passion, the receiver of that information is far more likely to accept it.
+
+Finally, don't make the mistake of confusing core skills with soft skills. The two concepts are different. Core skills will ultimately apply to a specific task or capability of a potential job. Soft skills remain a little more ambiguous in that sense. They are not related to any one specific task and, instead, apply across the myriad of responsibilities for a given job role. Therefore, soft skills are the final list we need to look at before working on building a capabilities inventory.
+
+Soft skills
+Typically associated with higher-level personality traits and help augment a person's ability to complete many job-related responsibilities more effectively. Soft skills are a critical element when hiring managers are looking at potential candidates.
+
+Soft skills are hard to self-analyse. It takes an incredible degree of self-awareness and objectivity to see where we excel and to admit where we are weak. No matter how objective we try to be, a level of personal bias always remains simply because we cannot perceive ourselves the way the outside world perceives us. Measurement of soft skills tends to be more subjective. 
+
+Most soft skills are things that you can practice improving. At times you may simply have to be aware of weaknesses that you cannot improve upon and compensate for those in other ways.
+
+
 
 

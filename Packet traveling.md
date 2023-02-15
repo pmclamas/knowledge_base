@@ -113,5 +113,24 @@ Consequently, all Layer 3 devices must maintain an ARP Table.
 ### Host to Host communication
 ![[Screenshot 2023-02-03 at 16.44.58.png]]
 Since there are no Routers in this illustration, we know all the communication is happening within the same network - therefore, Host A and Host B are both configured with IP addresses that belong to the same network.
+It is rare to find two hosts directly connected to each other. But understanding what it takes to get a packet from one Host to another is key to understanding how a Switch enables multi-host communication, or a Router enables multi-network communication.
 
+### Host to Host through  Switch
+##### Switch Functions
+A Switch primarily has four functions: learning, flooding, forwarding, and filtering.
+
+**Learning -** being a Layer 2 device, a Switch will make all its decisions based upon information found in the L2 Header. Specifically, a Switch will use the Source MAC address and Destination MAC address to make its forwarding decisions.
+One of the goals of the Switch is to create a MAC address table, mapping each of its switchports to the MAC address of the connected devices.
+The MAC address table starts out empty, and every time a Switch receives anything, it takes a look at the Source MAC address field of the incoming frame. It uses the Source MAC and the switchport the frame was received on to build an entry in the MAC address table.
+Sooner or later, as each connected device inevitably sends something, the Switch will have a fully populated MAC address table. This table can then be used to smartly forward frames to their intended destination.
+
+**Flooding -** it is unavoidable that a Switch will, at some point, receive a frame destined to a MAC address of which the Switch does not know the location.
+In such cases, the Switch's only option is to simply duplicate the frame and send it out all ports. This action is known as Flooding.
+Flooding assures that if the intended device exists and if ti is connected to the switch, it will definitely receive the frame.
+Of course, so will every other device connected to that particular switch.
+And though not ideal, this is perfectly normal. The NIC of each connected device will receive the frame and take a look at the Destination MAC address field. If they are not the intended recipient, they will simply silently drop the frame.
+If they are the intended device, then the Switch can rest satisfied knowing it was able to deliver the frame successfully.
+Moreover, when the intended device receives the frame, a response will be generated, which when sent to the Switch will allow the switch to learn and create a MAC address table mapping that unknown device to its switchport. 
+
+**Forwarding -** 
 

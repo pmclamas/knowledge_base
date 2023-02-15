@@ -432,6 +432,86 @@ Soft skills are hard to self-analyse. It takes an incredible degree of self-awar
 
 Most soft skills are things that you can practice improving. At times you may simply have to be aware of weaknesses that you cannot improve upon and compensate for those in other ways.
 
+**List your soft skills**
+1. Beginning with your current or most recent job, think about the soft skills feedback you have received, both positive and negative.
+2. Put a plus sign next to the ones that were positive feedback, and a negative sign next to the ones that were areas you were told you need to improve. 
+3. Next, think about what your friends and family have told you in the past.
+4. Think about any other interactions you have had where people commented on any of your soft skills and list those.
+
+### Connect yourself
+##### Choosing a focus discipline
+After putting in all the effort to start a career in cybersecurity, the last thing you want to do is go down a path that conflicts with your passions and causes you to seek a whole new career outside of security.
+
+Your driving curiosity may lead you to have strong interests in a lot of areas of security. 
+
+You want your career to cultivate your passions, because that is what will lead to longevity in this field. 
+
+Security is a profession in which pivoting from one role to another is easier.
+
+#### Summary
+- aspiring security professionals face key challenges when trying to land their first job. Entry-level roles are hard to find, job descriptions are often unrealistic, and no single path is defined for starting a career in security.
+- a personal objective statement ties together a unique aspect of your personal brand along with the elements that you feel most passionate about in your chosen career path. It can serve as a constant guide for making career decisions.
+- core skills are an important way to demonstrate how non-security related work history and experience apply as qualifications for a security job.
+- a capabilities inventory is crucial for understanding how well prepared you are for a job in your selected security discipline.
+- documenting your skills gap based on real-world job descriptions provides a powerful planning tool for personal capability development, allowing job seekers to better align with the jobs they seek.
+
+### Security certifications
+Choosing a certification is not just a matter of picking the one that is most commonly asked for in job descriptions. Many certifications have requirements for previous knowledge, work experience, or pre-requisite certifications.
+![[Screenshot 2023-02-13 at 13.52.13.png]]
+(this chart depicts many common security certifications and their relationships to career progressions)
+
+Certifications provide a common level of measurement and an attestation of a professional's skills.
+
+It is not uncommon to encounter job descriptions that cal for a certification that cannot be achieved without prior working experience. This makes the role appear out of reach for potential entry-level candidates even when, in some cases, the role is an entry-level job.
+
+**Certified Information Systems Security Professional (CISSP)**
+This highly respected, general-knowledge certification covers topics than span eight disciplines, or domains, of knowledge:
+- Security & Risk management
+- asset security
+- security architecture and engineering
+- communication and network security
+- identity and access management (IAM)
+- security assessment and testing
+- security operations
+- software development security
+CISSP certification covers some pretty broad topics. As a result, this general certification can apply to just about any role in cybersecurity. 
+To obtain a CISSP certification, the applicant also needs to demonstrate five years of experience working in at least two of the domains. This is meant to ensure that certified professionals have expertise in applying the subject matter to real-world situations.
+Beyond the qualifications needed to achieve the certification in the first place, it also requires CISSP holders to demonstrate continued learning through the continuing professional education (CPE) program. CISSP-certified individuals are required to complete a minimum of 120 hours of continuing education over the course of three years.
+
+Certifications are not free. There is a fee for taking the exam, another fee for the certification itself, and of course if you take any form of preparatory course or purchase any preparatory materials, those all have a cost associated with them too. 
+
+The CISSP is meant to be a somewhat prestigious designation of established security professionals. It is not appropriate for someone just entering the industry. 
+
+**CompTIA Security+**
+CompTIA identifies six min topic areas that are included in the Security+ certification:
+- threats, attacks, and vulnerabilities
+- technologies and tools
+- architecture and design
+- identity and access management
+- risk management
+- cryptography and PKI
+These topics overlap considerably with the CISSP domains. 
+
+The Security+ is a bit more attainable for an aspiring security professional than the CISSP. While CompTIA recommends that candidates pass their Network+ certification and have at least two years of work experience in a security field, it is not a requirement. 
+A person who has gained the necessary technical knowledge through other means (education or self-study, for example) can still take the exam and obtain a Security+ certification. The Security+ does come with requirements for continuing education. A Security+ holder must complete 50 continuing education units over a 3 year period to keep their certification.
+The costs and requirements to achieve a Security+ make it an appropriate first certification for someone looking to land their first security job.
+
+**EC-Council Certified Ethical Hacker**
+If focuses on skills for the Ethical Hacker (typically referred to as Penetration Testers). 
+While this certification is acceptable to most employers as a demonstration of fundamental knowledge in penetration testing, it is not as well respected overall as other available certifications.
+The CEH was intended to provide more specialised training and assessment of penetration testing tools, techniques, and concepts. The CEH more closely ties the training to the exam itself.
+While it is still possible to take the exam without going through  formal training course, EC-Council requires you to have been working in security for two years. 
+It requires a verification and application process that includes sending in your resume along with an Eligibility Check Payment.
+The exam assesses knowledge across seven domains:
+- background
+- analysis/assessment
+- security
+- tools/systems/programs
+- procedures/methodology
+- regulation/policy
+- ethics
+The CEH certification courses are open to anyone without formal prerequisites. This makes it an accessible certification for aspiring professionals. Like most other certifications, the CEH has a requirement for continuing education. To maintain a CEH certification, EC-Council requires 120 EC-Council continuing education credits over a three-year period.
+Overall, the CEH, while accessible to aspiring security professionals, does have significant drawbacks. Cost is a key issue unless you already work for a company that is willing to help pay for the certification so you can transition to a security role within the company. Another drawback is the particularly focused nature of this certification. If you know for sure that you want to work in Penetration Testing, the CEH might be a good investment. 
 
 
 
